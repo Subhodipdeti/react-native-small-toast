@@ -7,7 +7,7 @@
 
 `$ npm install react-native-small-toast --save`
 
-<img src="./IOS-Toast.gif" height="250"/>
+<img src="./Example-Toast.gif" height="400"/>
 
 ## Usage
 ```javascript
