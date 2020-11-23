@@ -1,7 +1,7 @@
 {
   "name": "react-native-small-toast",
   "title": "React Native Small Toast",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "React Native Toast component for both Android and iOS",
   "main": "index.js",
   "files": [
